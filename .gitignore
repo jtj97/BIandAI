@@ -1,0 +1,11 @@
+*.zip
+*.png
+*.gz
+Data/MNIST/raw/t10k-images-idx3-ubyte
+Data/MNIST/raw/t10k-labels-idx1-ubyte
+Data/MNIST/raw/train-images-idx3-ubyte
+Data/MNIST/raw/train-labels-idx1-ubyte
+Data/MNIST/processed/training.pt
+Data/MNIST/processed/test.pt
+brain/Pic.7z
+brain.zip
